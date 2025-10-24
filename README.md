@@ -5,6 +5,7 @@
   https://arxiv.org/pdf/math/0406077
 
 If you dont have some background in information theory, Reza- An Introduction to Information Theory is a great book
+https://store.doverpublications.com/products/9780486682105?srsltid=AfmBOooShV8WYLcB1yqLftELDvXHZZpWsigfLZWSXNEc9l30KD0qA4qc
 
   A few very compelling ideas. This paper reflects on the information theoretic ideas behind model fitting, i.e. compression. It should be noted that nearly all statistical models can be considered in this way. Instead of considering the loss of a model, this defines well a more complete idea...that is the complexity of a model given the data, which essentially represents the complexity of a model, and its representation output.
 
